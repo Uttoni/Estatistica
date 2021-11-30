@@ -1,8 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import scipy.stats as stats
-#from rpy import *  # importa o rpy
-from fontTools.misc.psOperators import ps_name
 
 if __name__ == '__main__':
 
